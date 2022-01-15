@@ -2,6 +2,8 @@
 The HTML for The Z Generation
 ZHTML is a New HTML Version
 Its MIME is text/zhtml you can use it Instead To Create HTML in easy Way like this
+
+
 <code> <DOCTYPE html>
   <head>
     <script type="text/html">
